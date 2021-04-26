@@ -1,0 +1,17 @@
+package $02_DataTypes;
+
+public class EmployeeId {
+
+    public static void main(String[] args) {
+        int empId = 123;
+        String name = "john";
+        String dept = "R&D";
+        boolean active = true;
+
+        System.out.println(empId);
+        System.out.println(name);
+        System.out.println(dept);
+        System.out.println(active);
+
+    }
+}
